@@ -1,0 +1,38 @@
+_repo: T.-De-Witt-TalmageAs-I-Knew-Him_15693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Talmage, T. De Witt (Thomas De Witt)
+    aliases:
+    - Talmage, T. DeWitt (Thomas De Witt)
+    - Talmage, Thomas De Witt
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '5618'
+    url: http://www.gutenberg.org/2009/agents/5618
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_De_Witt_Talmage
+  - agent_name: Talmage, Eleanor McCutcheon
+    alias: Talmage, T. de Witt, Mrs.
+    gutenberg_agent_id: '6200'
+    url: http://www.gutenberg.org/2009/agents/6200
+description: ''
+gutenberg_issued: '2005-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- United States -- Biography'
+- !lcc 'BX'
+- !lcsh 'Talmage, T. De Witt (Thomas De Witt), 1832-1902'
+- !lcsh 'Presbyterian Church -- Clergy -- Biography'
+title: 'T. De Witt Talmage
+
+  As I Knew Him'
+url: http://www.gutenberg.org/ebooks/15693
